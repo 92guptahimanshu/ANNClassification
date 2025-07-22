@@ -1,9 +1,9 @@
 streamlit
-tensorflow==2.15.0
+tensorflow
 pandas
 numpy
 scikit-learn
 tensorboard
 matplotlib
-keras==2.13.1
-keras_applications==1.0.8
+keras
+keras_applications
